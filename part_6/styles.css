@@ -4,6 +4,20 @@ body {
 }
 
 
+h1{
+  text-align: center;
+  letter-spacing: 0.25em;
+}
+  
+
+
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  letter-spacing: 0.15em;
+}
+
+
 /* ----------------------------------------------------------------- */
 /* The scary stuff below is just to get the right font loaded up.    */
 /* Don't worry about it. Write your CSS rules above the dotted line. */

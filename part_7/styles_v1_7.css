@@ -4,8 +4,11 @@
   border: thin red solid;
 }
 
+.row {
+  clear: both;
+}
 
-.link{
+.button {
 	display: block;
 	height: 100px;
 	width: 300px;
@@ -17,10 +20,22 @@ p {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-.splash {
+h1{
   height: 200px;
   background-color: lightgray;
 }
+
+footer{text-align: left;}
+
+.splash{
+
+
+}
+
+.clearfix {
+  clear: both;
+}
+
 
 .one-third {
   float: left;

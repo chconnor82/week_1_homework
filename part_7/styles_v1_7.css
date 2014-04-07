@@ -30,7 +30,9 @@ h1{
 
 footer{text-align: left;}
 
-.screenshot{margin-right: 2cm}
+.screenshot{float: left;}
+
+.screenshot2{float: right;}
 
 .clearfix {
   clear: both;

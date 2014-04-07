@@ -9,11 +9,14 @@
 }
 
 .button {
-	display: block;
-	height: 100px;
-	width: 300px;
-	background: #34696f;
-	border: 2px solid rgba(33, 68, 72, 0.59);
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  height: 30px;
+  width: 150px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 20px;
 }
 
 p {
@@ -27,17 +30,14 @@ h1{
 
 footer{text-align: left;}
 
-.splash{
-
-
-}
+.screenshot{margin-right: 2cm}
 
 .clearfix {
   clear: both;
 }
 
 
-.one-third {
+h3{
   float: left;
   width: 33%;
 }

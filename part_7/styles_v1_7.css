@@ -4,4 +4,35 @@
   border: thin red solid;
 }
 
-#class{}
+
+.link{
+	display: block;
+	height: 100px;
+	width: 300px;
+	background: #34696f;
+	border: 2px solid rgba(33, 68, 72, 0.59);
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.splash {
+  height: 200px;
+  background-color: lightgray;
+}
+
+.one-third {
+  float: left;
+  width: 33%;
+}
+
+.two-third {
+  float: left;
+  width: 66%;
+}
+
+.one-fourth {
+  float: left;
+  width: 25%;
+}
